@@ -6,10 +6,12 @@ Shift bits left or right by inserting the top of the bit stack to the binary val
 
 ## Controls
 
-Mouse/Touch
-Swipe left or right - Shift Bits
-Tap - Pop Stack
+### Mouse/Touch
 
-Keyboard
-Arrows Left and Right - Shift Bit
-Space - Pop Stack
+* Swipe left or right - Shift Bits
+* Tap - Pop Stack
+
+### Keyboard
+
+* Arrows Left and Right - Shift Bit
+* Space - Pop Stack
